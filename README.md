@@ -29,7 +29,7 @@ print("Hola mundo")
 
 **3.VsCode**
 
--Primero se abrio una carpeta, donde se creo un archivo denominado Reto_2.py para que este pueda ser identificado como un archivo de python el cual puede ser ejecutado en la terminal, luego se escribió el siguiente código: 
+- Primero se abrio una carpeta, donde se creo un archivo denominado Reto_2.py para que este pueda ser identificado como un archivo de python el cual puede ser ejecutado en la terminal, luego se escribió el siguiente código: 
 
 ``` Python
 if __name__ == "__main__" :
